@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+test My test
+my test
+Anita
+Anit
+=======
+test My test
+>>>>>>> parent of 81c9628... edited file
